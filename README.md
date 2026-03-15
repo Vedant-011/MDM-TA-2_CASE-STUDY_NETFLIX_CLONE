@@ -14,14 +14,8 @@ This project is a frontend case study and structural replication of the Netflix 
 * **CSS3:** Custom styling, Flexbox for complex layouts, hover effects, and external font integration.
 
 ## 📚 Academic Context
-This project was built as a practical application of UI design and web architecture principles for the Fundamentals of Web Programming curriculum at YCCE.
+This project was built as a practical application of UI design and web architecture principles for the Fundamentals of Web Programming.
 
 ## 👨‍💻 Author
-**Vedant Saraf** ```
+**Vedant Saraf** 
 
-### How to use this:
-1. In VS Code, create a new file in your main `NETFLIX CLONE` folder.
-2. Name it exactly `README.md`.
-3. Paste the code above and save it. 
-
-Would you like me to give you the exact terminal commands to initialize your Git repository and push this project up to GitHub?
